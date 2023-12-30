@@ -59,14 +59,20 @@ namespace XEmuera.Views
 					new AboutModel
 					{
 						Text = StringsText.Version,
-						Detail = "Emuera1824+v15 私家改造版",
-						Url = "https://ux.getuploader.com/ninnohito/index"
+						Detail = "Emuera1824+v16+EMv15+EEv24fix",
+						Url = "https://gitlab.com/EvilMask/emuera.em"
 					},
 					new AboutModel
 					{
 						Text = StringsText.Document,
 						Detail = "EmueraWiki",
 						Url = "http://osdn.jp/projects/emuera/wiki/FrontPage"
+					},
+    					 new AboutModel
+					{
+						Text = StringsText.Document,
+						Detail = "EmueraEM+EE文档",
+						Url = "https://evilmask.gitlab.io/emuera.em.doc/zh/index.html"
 					},
 					new AboutModel
 					{
