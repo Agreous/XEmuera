@@ -1,7 +1,7 @@
 ## XEmuera
 XEmuera是一款使用[Xamarin.Forms](https://dotnet.microsoft.com/apps/xamarin)构建的安卓软件。软件移植自一款名为[Emuera](https://osdn.net/projects/emuera)、来自Windows平台的文字游戏引擎。
 
-当前使用的Emuera内核版本为[Emuera1824+v15 私家改造版](https://ux.getuploader.com/ninnohito/index)。本项目在该版本基础上删改了大部分仅能在Windows上使用的功能，且整体运行效率不如Windows平台。
+当前使用的Emuera内核版本为[Emuera1824+v16+EMv15+eeV24fix](https://gitlab.com/EvilMask/emuera.em)。本项目在该版本基础上删改了大部分仅能在Windows上使用的功能，且整体运行效率不如Windows平台。
 
 当前项目处在不稳定的开发阶段，软件使用时可能会遇到不同程度的问题。
 
